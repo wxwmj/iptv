@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://live.fanmingming.cn/tv/邵氏电影.png" group-title="🎞️电影直播",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://live.fanmingming.cn/tv/邵氏武侠.png" group-title="🎞️电影直播",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏动作" tvg-logo="https://live.fanmingming.cn/tv/邵氏动作.png" group-title="🎞️电影直播",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏喜剧" tvg-logo="https://live.fanmingming.cn/tv/邵氏喜剧.png" group-title="🎞️电影直播",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
